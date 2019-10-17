@@ -13,6 +13,7 @@
     "gatsby-plugin-sharp": "^2.2.31",
     "gatsby-plugin-stripe": "^1.2.3",
     "gatsby-source-filesystem": "^2.1.33",
+    "gatsby-source-stripe": "^3.0.4",
     "gatsby-transformer-sharp": "^2.2.23",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
